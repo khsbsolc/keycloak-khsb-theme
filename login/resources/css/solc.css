@@ -1,0 +1,20 @@
+body {
+    background-image: url('../img/background.png') !important;
+    background-size: cover !important;
+}
+
+#kc-header-wrapper {
+    text-transform: none;
+}
+
+#kc-header-wrapper h1 {
+    font-size: 18pt;
+    font-weight: bold;
+}
+
+#kc-header-wrapper h2 a {
+    font-size: 12pt;
+    color: white;
+    text-decoration: underline;
+    letter-spacing: normal;
+}
